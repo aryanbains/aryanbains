@@ -9,7 +9,7 @@
 
 - 💬 Ask me only **After you already Googled it!**
 
-- 🌍 My Portfolio Website <a href="https://www.aryanbains.xyz/">
+- 🌍 My Portfolio Website <a href="https://www.aryanbains.xyz/">www.aryanbains.xyz</a>
 
 - 📫 How to reach me **aryanbains6@gmail.com**
 
