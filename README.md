@@ -1,40 +1,70 @@
-<h1 align="center">Hi 👋, I'm Aryan Bains🐳🌟</h1>
-<h3 align="center">A passionate Machine Learning Developer.</h3> <br>
+```
+> initializing profile...
+> loading orchestration layer...
+> all systems operational.
+```
 
+---
 
+# Aryan Bains
 
-- 🌱 I’m currently learning **AI Agents and LLM Evualtion**
+**I build AI infrastructure. When the framework wasn't good enough, I built my own.**
 
-- 👯 I’m looking to collaborate on **AI And LLM Projects**
+CEO & Founding Engineer at [SuperMind](https://projectsupermind.com) — an AI operating system for businesses. I spent six months building on top of existing agent frameworks before realizing the abstraction was wrong. So I scrapped it and built my own orchestration layer from scratch: tool calls, scheduling, browser automation, RAG memory, cron jobs, Composio integrations. Everything. In 2-3 days.
 
-- 💬 Ask me only **After you already Googled it!**
+That's how I work.
 
-- 🌍 My Portfolio Website <a href="https://www.aryanbains.xyz/">www.aryanbains.xyz</a>
+---
 
-- 📫 How to reach me **aryanbains6@gmail.com**
+## What I'm Building
 
-- 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/1Yab37UqZLDznu6_eHY9xy4oAaMP4900d/view" target="_blank">resume</a>
+**SuperMind** — An AI OS for businesses. 13 specialist AI agents (Sales, Finance, CTO, Legal, HR, Product, and more), human-in-the-loop approvals, company-scoped memory, live browser control, 50+ integrations, and a morning briefing that tells you what your business did while you slept.
 
+The technical foundation:
+- Own agent orchestration layer (not LangChain, not Hermes — ours)
+- Fully serverless on Azure Container Apps — charges only on compute used, not 24/7 VMs
+- Own RAG memory layer at $2/user/month — 5000+ data points, 100+ documents per company
+- Live browser feed via Playwright — users watch the agent work in real time
+- Composio-native integrations across all 50+ apps
 
-<br><br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aryanbains/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryanbains/" height="30" width="40" /></a>
-<a href="https://instagram.com/aryanbains2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryanbains2" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aryanbains" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aryanbains" height="30" width="40" /></a>
-</p>
-<br><br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p><br><br>
+Paying customers. Rebuilt from scratch twice. Shipping.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanbains&show_icons=true&locale=en&layout=compact&theme=dark" alt="aryanbains" /></p>
-<br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanbains&show_icons=true&locale=en&theme=dark" alt="aryanbains" /></p><br><br>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanbains&theme=fark" alt="aryanbains" /></p><br><br>
+## What I've Shipped
 
+**GoverRAJ** — Government automation system for Rajasthan Police. A 6–14 month manual promotion pipeline (seniority lists, exam records, merit generation, final approvals) reduced to 2–4 weeks. 30+ government rules encoded. 8 manual steps automated. Built in .NET 8 + WPF, AES-256 encrypted, full audit logging. Confidential government project.
 
+**SuperMind 1.0** → **SuperMind 2.0** — Full rebuild. Replaced Hermes agent framework with own orchestration layer, moved from dedicated VMs to serverless, dropped RAG costs by ~95%, added live browser control. This is what fixing your own abstractions looks like.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanbains" alt="aryanbains" /></a> </p><br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanbains&label=Profile%20views&color=0e75b6&style=flat" alt="aryanbains" /> </p>
-<p align="center">
+---
+
+## How I Build
+
+I work at the infrastructure layer, not the feature layer. Before writing a line of product code, I think about token costs, compute costs, failure modes, and whether the abstraction I'm building on top of is actually the right one.
+
+Stack I reach for: **Node.js · TypeScript · Next.js · Azure · Playwright · PostgreSQL · Composio · Python when needed**
+
+I don't use frameworks as black boxes. If something is wrong underneath, I fix underneath.
+
+---
+
+## Currently
+
+- Shipping SuperMind 2.0 — multi-agent orchestration, fully serverless, own RAG
+- Open to **founding engineer roles** at ambitious AI teams (remote)
+- Writing about agent architecture, orchestration layers, and building AI systems that don't break at 2am
+
+---
+
+## Reach Me
+
+[linkedin.com/in/aryanbains](https://linkedin.com/in/aryanbains) &nbsp;·&nbsp;
+[x.com/AryanBains2](https://x.com/AryanBains2) &nbsp;·&nbsp;
+[aryanbains6@gmail.com](mailto:aryanbains6@gmail.com)
+
+If you're building something in AI infrastructure, agent orchestration, or multi-agent systems — I want to hear about it.
+
+---
+
+<sub>New Delhi, India · Available globally · Response time < 24h</sub>
