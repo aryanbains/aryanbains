@@ -1,5 +1,5 @@
 ```txt
-> initializing aryan.xyz... all systems operational.
+> initializing aryanb.xyz... all systems operational.
 ```
 
 # hey, i'm aryan.
